@@ -95,23 +95,22 @@ Identified top hosts by listing count, calculated host concentration metrics usi
 - Top 5 hosts combined control **299 listings (10.4% of supply)**
 - Multi-listing hosts charge **$42 more per night** than single-listing hosts ($201 vs $159) — a 26% premium
 
- ## 📸 Screenshots
+## 📸 Screenshots
 
 ### Executive Summary
-![Summary](01_summary.png)
+![Executive summary showing key findings and methodology](Summary.png)
 
 ### Strategic Recommendations
-![Recommendations](02_recommendations.png)
+![Six strategic recommendations with priority ratings](Recommandations.png)
 
 ### Annual Review Trend
-![Line Chart](04_line_chart.png)
+![Line chart showing review growth from 6 in 2011 to 54540 in 2023](Line_Chart.png)
 
 ### Room Type Distribution
-![Pie Chart](03_pie_chart.png)
+![Pie chart showing 89% entire homes dominate Asheville market](Pie_Chart.png)
 
 ### Descriptive Analysis Overview
-![Analysis](05_analysis_overview.png) 
-
+![Pivot tables showing pricing and neighbourhood listing counts](Analysis_overview.png) 
 ---
 
 ## ✅ Strategic Recommendations
