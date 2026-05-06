@@ -95,6 +95,23 @@ Identified top hosts by listing count, calculated host concentration metrics usi
 - Top 5 hosts combined control **299 listings (10.4% of supply)**
 - Multi-listing hosts charge **$42 more per night** than single-listing hosts ($201 vs $159) — a 26% premium
 
+ ## 📸 Screenshots
+
+### Executive Summary
+![Summary](01_summary.png)
+
+### Strategic Recommendations
+![Recommendations](02_recommendations.png)
+
+### Annual Review Trend
+![Line Chart](04_line_chart.png)
+
+### Room Type Distribution
+![Pie Chart](03_pie_chart.png)
+
+### Descriptive Analysis Overview
+![Analysis](05_analysis_overview.png) 
+
 ---
 
 ## ✅ Strategic Recommendations
