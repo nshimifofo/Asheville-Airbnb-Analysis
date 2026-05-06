@@ -98,19 +98,20 @@ Identified top hosts by listing count, calculated host concentration metrics usi
 ## 📸 Screenshots
 
 ### Executive Summary
-![Executive summary showing key findings and methodology](Summary.png)
+![Executive summary](Summary.png)
 
 ### Strategic Recommendations
-![Six strategic recommendations with priority ratings](Recommandations.png)
+![Strategic recommendations](Recommandations.png)
 
 ### Annual Review Trend
-![Line chart showing review growth from 6 in 2011 to 54540 in 2023](Line_Chart.png)
+![Annual review trend](Line_Chart.png)
 
 ### Room Type Distribution
-![Pie chart showing 89% entire homes dominate Asheville market](Pie_Chart.png)
+![Room type distribution](Pie_Chart.png)
 
 ### Descriptive Analysis Overview
-![Pivot tables showing pricing and neighbourhood listing counts](Analysis_overview.png) 
+![Descriptive analysis overview](Analysis_overview.png)
+
 ---
 
 ## ✅ Strategic Recommendations
